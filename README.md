@@ -1,6 +1,9 @@
 # AideRL
 
+## Authors: Mertay Dayanc & Adam Romano
+
 #### Project Tutorial
+
 
 The COMS6998_AideRL.ipynb jupyter notebook contains the project tutorial for AideRL. 
 
@@ -15,3 +18,9 @@ The reinforcement learning specific code has been broken out into train_reward_m
 The trained Llama 3.2 1B reward model can be found under trained_reward_model_llama1b directory.
 
 THe data used for the project can be found under AideRL.zip.
+
+#### Links
+
+Link to forked mle-bench: https://github.com/adamromano311/mle-bench
+
+Link to forked aide-ml: https://github.com/adamromano311/aideml
